@@ -6,3 +6,5 @@ This example shows how you can use Terraform with data in a Comma-separated Valu
 We then use the **for_each** meta-argument in each resource to read in and leverage the data read from the CSV file.
 
 In this example, we're just reading in data for Multiple Tenants, VRFs, etc and configuring them. I will post an example in which we can use this to provision multiple ports within an EPG.
+
+This was tested on Terraform version 1.5.5 and ACI provider 2.10.1.
