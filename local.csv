@@ -1,0 +1,4 @@
+tenant,vrf,ap,epg,bd-name
+tenant1,vrf1,ap1,epg1,bd1
+tenant2,vrf2,ap2,epg2,bd2
+tenant3,vrf3,ap3,epg3,bd3
